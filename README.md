@@ -1,3 +1,6 @@
+This is a fork of the original camel-salesforce-maven-plugin.  
+It provides support for lookup field using an sObject external id, as described here https://issues.apache.org/jira/browse/CAMEL-10193  
+
 # Maven plugin for camel-salesforce component #
 
 This plugin generates DTOs for the [Camel Salesforce Component](https://github.com/dhirajsb/camel-salesforce). 
